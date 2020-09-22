@@ -11,11 +11,12 @@
     padding: 20px;
     width: 100%;
     background-color: whitesmoke;
+    border-bottom: solid;
+    border-color: rgb(100, 177, 145);
+    border-width: 3px;
 }
 
-body{
-    background-color: rgb(61, 61, 61);
-}
+
 
 #article-color{
     margin-right:20px;
@@ -32,3 +33,17 @@ body{
 #align-center{
     text-align: center;
 }
+
+#border-color{
+    border-bottom: solid;
+    border-color: rgb(100, 177, 145);
+    border-width: 3px;
+}
+
+#portfolio{
+    
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
